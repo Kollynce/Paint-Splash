@@ -1,0 +1,157 @@
+[0929/235142.040:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0929/235142.070:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0929/235142.071:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0929/235148.673:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/002646.863:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/002646.863:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/002646.863:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/002649.906:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/002704.720:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/002704.736:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/002704.736:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/002704.861:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/090243.716:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/090243.732:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/090243.732:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/090247.669:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/185857.481:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/185857.488:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/185857.490:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/185902.814:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/222355.542:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222355.567:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/222355.610:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222358.443:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/222852.503:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222852.510:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/222852.512:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222855.973:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/222934.726:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222934.741:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/222934.743:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/222937.665:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/225542.981:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/225542.992:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/225542.994:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/225545.429:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0930/231341.969:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/231341.982:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/231341.984:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[0930/231344.130:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1001/100431.853:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/100431.962:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1001/100431.962:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/100435.728:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1001/114712.334:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/114712.680:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1001/114712.827:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/114719.041:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1001/120607.422:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/120607.448:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1001/120607.450:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/120610.921:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1001/120703.528:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/120703.570:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1001/120703.571:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1001/120706.473:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1002/092640.128:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1002/092640.237:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1002/092640.254:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1002/092643.360:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1003/104202.212:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1003/104202.478:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1003/104202.541:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1003/104206.931:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1003/160836.455:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1003/160836.538:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1003/160836.553:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1003/160839.983:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1005/090720.750:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1005/090720.792:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1005/090720.793:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1005/090724.201:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1007/162007.348:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1007/162007.357:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1007/162007.360:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1007/162012.543:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1008/122100.373:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1008/122100.397:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1008/122100.399:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1008/122103.327:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[1015/120117.114:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120117.115:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120117.115:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120117.116:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120117.117:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/120117.121:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/120117.123:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/120849.682:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120849.682:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120849.683:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120849.683:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/120849.683:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/120849.688:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/120849.689:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121127.733:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121127.733:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121127.733:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121127.733:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121127.734:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121127.740:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/121127.741:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121217.903:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121217.903:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121217.903:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121217.903:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121217.904:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121217.909:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/121217.910:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121304.624:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121304.624:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121304.624:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121304.624:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121304.625:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121304.629:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/121304.630:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121500.161:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121500.162:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121500.162:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121500.162:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/121500.162:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/121500.166:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/121500.167:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142039.386:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142039.431:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142039.431:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142039.431:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142039.530:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142039.536:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/142039.537:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142258.569:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142258.586:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142258.586:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142258.586:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142258.587:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142258.593:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/142258.595:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142550.012:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142550.013:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142550.013:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142550.013:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142550.013:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142550.018:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/142550.020:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142723.574:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142723.575:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142723.575:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142723.575:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/142723.576:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/142723.581:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/142723.583:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/143209.218:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/143209.218:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/143209.218:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/143209.219:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[1015/143209.220:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)
+[1015/143209.224:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1015/143209.226:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Access is denied. (0x5)

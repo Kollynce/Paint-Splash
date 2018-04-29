@@ -1,0 +1,59 @@
+
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+
+
+fieldset,img { 
+	border:0;
+}
+
+ol,ul {
+	list-style:none;
+}
+
+abbr,acronym { border:0;
+}
+/* General Demo Style */
+
+.ie7 body{
+	overflow:hidden;
+}
+a{
+	color: #333;
+	text-decoration: none;
+}
+.container{
+	position: relative;
+	text-align: center;
+}
+
+
+
+
+		body 					{font-style: normal;background-color: #D5E71F; }
+		body 					{ font-family:  cursive;}
+ 	
+		#logo					{float: left; text-align: center; padding-left: 															20px;}
+		#logo h1 				{padding-bottom: 0px;margin-bottom: 0; font-size: 							30px;}
+		#logo h2 				{padding-top: 0px; margin-top: 0;font-size: 25px;}
+
+		#top-nav				{float: right;margin-top: 0;padding-top: 0;}
+		#top-nav ul li 			{display: inline; font-size: 20px; margin: 10px;}
+		#top-nav	a			{text-decoration: none;}	
+		#top-nav	a:link		{color: black;}	
+		#top-nav	a:hover		{color:#1EE307; }	
+		#top-nav	a:visited	{color: crimson;}	
+
+
+
+
+		#note					{ padding-top: 20%;	
+						 		 align-items: center; clear: both;text-align: center; }
+		#note h1 				{padding-bottom: 0px;margin-bottom: 0;font-size: 								35px; }
+		#note h2 				{padding-top: 0px; margin-top: 0;font-size: 30px;}
+
+		#social 				{clear: both;padding-top: 17%;padding-left: 20px;}
+		#social img 			{padding: 15px;padding-top: 0;margin-bottom: 0;}

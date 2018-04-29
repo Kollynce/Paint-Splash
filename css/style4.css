@@ -1,0 +1,24 @@
+/* CSS Document */
+		
+		body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+
+		body 					{font-style: normal;background-color: #D5E71F; }
+		body 					{ font-family:  cursive;background: transparent url(../images/splash01.png) 							repeat top left;background-image: url(../images/splashtt.jpg); height: 								100%; width: 100;}
+ 		
+		#logo					{float: left; text-align: center; padding-left: 															20px;}
+		#logo h1 				{padding-bottom: 0px;margin-bottom: 0; font-size: 							30px;}
+		#logo h2 				{padding-top: 0px; margin-top: 0;font-size: 25px;}
+
+		#top-nav				{float: right;margin-top: 0;padding-top: 0;}
+		#top-nav ul li 			{display: inline; font-size: 20px; margin: 10px;}
+		#top-nav	a			{text-decoration: none;}	
+		#top-nav	a:link		{color: black;}	
+		#top-nav	a:hover		{color:#1EE307; }	
+		#top-nav	a:visited	{color: crimson;}	
+		#clear					{clear: both;}
+		#text 					{text-align: center; width: 400px; align-content: center;margin: auto;
+									border: #000000 3px solid;background-color: #B44EF0; 
+								  background: rgba(204, 204, 204, 0.7);}
